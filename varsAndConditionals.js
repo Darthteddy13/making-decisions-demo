@@ -9,7 +9,7 @@ let anakinAtk = 30;
 let kenobiHP = 100;
 let kenobiDef = 0;
 let anakinHP =100
-let anakinDef = 25
+let anakinDef = 5;
 
 
 if (anakinAtk > kenobiAtk)
